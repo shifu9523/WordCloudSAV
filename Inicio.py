@@ -373,7 +373,7 @@ def fig_a_bytes(fig):
 # SIDEBAR
 # ─────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("## ☁️ WordCloud Studio")
+    st.markdown("Nube de palabras DISEÑO INTERACTIVO")
     st.divider()
 
     # ── Fuente ──
